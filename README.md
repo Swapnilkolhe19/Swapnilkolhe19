@@ -1,16 +1,16 @@
-### Hello World 🙋‍♂️ ![Swapnil Kolhe](https://github.com/Swapnilkolhe19/Swapnilkolhe19/blob/main/Github%20Banner.png)
+### Hello World !! 🙋‍♂️ ![Swapnil Kolhe](https://github.com/Swapnilkolhe19/Swapnilkolhe19/blob/main/Github%20Banner.png)
 
-<!--
-**Swapnilkolhe19/Swapnilkolhe19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=💻📊🔎Data_Analysis;💻📊🔎📈Data_Science🤖).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Data Analytics. 
+- 🎯 I’m currently focusing on learning and emproving my skill.
+- 📫 How to reach me: swapnilkolhe1133@gmail.com
 -->
+### ⚙️ Tech Stack.  
+#### Programming Languages
+![python](https://skillicons.dev/icons?i=python)
+![sql](https://skillicons.dev/icons?i=sql)
+
+
+#### Frameworks, Platform and Libraries
+![mysql](https://skillicons.dev/icons?i=mysql)

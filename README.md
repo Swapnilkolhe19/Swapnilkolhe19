@@ -9,8 +9,19 @@
 ### ⚙️ Tech Stack.  
 #### Programming Languages
 ![python](https://skillicons.dev/icons?i=python)
-![sql](https://skillicons.dev/icons?i=sql)
+![cpp](https://skillicons.dev/icons?i=cpp)
+![sql](https://github.com/NikhilPatil96/skill-icons/blob/main/sql.png)
+
 
 
 #### Frameworks, Platform and Libraries
 ![mysql](https://skillicons.dev/icons?i=mysql)
+![jp](https://github.com/NikhilPatil96/skill-icons/blob/main/jp.png)
+![powerBI](https://github.com/NikhilPatil96/skill-icons/blob/main/powerBI.png)
+![tableau](https://github.com/NikhilPatil96/skill-icons/blob/main/tableau.png)
+![excel](https://github.com/NikhilPatil96/skill-icons/blob/main/excel.png)
+![matplotlib](https://github.com/NikhilPatil96/skill-icons/blob/main/matplotlib.png)
+![sklearn](https://github.com/NikhilPatil96/skill-icons/blob/main/sklearn.png)
+![seaborn](https://github.com/NikhilPatil96/skill-icons/blob/main/seaborn.png)
+![numpy](https://github.com/NikhilPatil96/skill-icons/blob/main/numpy.png)
+![pandas](https://github.com/NikhilPatil96/skill-icons/blob/main/pandas.png)
